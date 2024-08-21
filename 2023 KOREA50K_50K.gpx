@@ -8,18 +8,19 @@
     <bounds maxlat="37.923073992133141" maxlon="127.17396000400186" minlat="37.846790039911866" minlon="127.06488998606801" />
   </metadata>
 
-  <trk>
-    <name>2022 KOREA50K - 50K_0826</name>
-    <extensions>
-      <gpxx:TrackExtension>
-        <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
-      </gpxx:TrackExtension>
-    </extensions>
+<trk>
+    <name>2024KOREA50K_50K_COROS_0317</name>
+    <type>Running</type>
     <trkseg>
-      <trkpt lat="37.900660028681159" lon="127.07086997106671">
-        <ele>105</ele>
-        <time>2020-01-09T00:00:00Z</time>
-      </trkpt>
+    <trkpt lat="37.9008364" lon="127.0709472">
+        <ele>116.0</ele>
+    </trkpt>
+    <trkpt lat="37.9008318" lon="127.0709469">
+        <ele>116.0</ele>
+    </trkpt>
+    <trkpt lat="37.9008273" lon="127.0709467">
+        <ele>116.0</ele>
+    </trkpt>
       <trkpt lat="37.900690035894513" lon="127.07089000381529">
         <time>2020-01-09T00:00:10Z</time>
       </trkpt>
