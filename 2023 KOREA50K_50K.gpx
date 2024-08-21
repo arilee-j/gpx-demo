@@ -1,42 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" creator="Coros Wearables">
-  <metadata>
-    <time>2024-03-17T07:49:58Z</time>
-    <link href="https://www.coros.com">COROS</link>
-    <coros_edit>1</coros_edit>
-  </metadata>
-  <wpt lat="37.8467176" lon="127.1054779">
-    <ele>119</ele>
-    <name>AP(A1)</name>
-    <extensions>
-      <coros_type>3</coros_type>
-      <coros_flag>1</coros_flag>
-    </extensions>
-  </wpt>
-  <wpt lat="37.8774890" lon="127.1403498">
-    <ele>369</ele>
-    <name>AP(A2)</name>
-    <extensions>
-      <coros_type>3</coros_type>
-      <coros_flag>1</coros_flag>
-    </extensions>
-  </wpt>
-  <wpt lat="37.9186062" lon="127.1671537">
-    <ele>207</ele>
-    <name>AP(A3)</name>
-    <extensions>
-      <coros_type>3</coros_type>
-      <coros_flag>1</coros_flag>
-    </extensions>
-  </wpt>
-  <wpt lat="37.9051082" lon="127.0888672">
-    <ele>111</ele>
-    <name>AP(A4)</name>
-    <extensions>
-      <coros_type>3</coros_type>
-      <coros_flag>1</coros_flag>
-    </extensions>
-  </wpt>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="Coros Wearables">
+<metadata>
+    <name>2024KOREA50K_50K_COROS_0317</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
   <trk>
     <name>2024KOREA50K_50K_COROS_0317</name>
     <type>running</type>
