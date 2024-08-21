@@ -7,26 +7,6 @@
         <link href="https://gpx.studio"></link>
     </author>
 </metadata>
-<wpt lat="37.8467176" lon="127.1054779">
-    <ele>119.0</ele>
-    <name>AP(A1)</name>
-    <sym> </sym>
-</wpt>
-<wpt lat="37.877489" lon="127.1403498">
-    <ele>369.0</ele>
-    <name>AP(A2)</name>
-    <sym> </sym>
-</wpt>
-<wpt lat="37.9186062" lon="127.1671537">
-    <ele>207.0</ele>
-    <name>AP(A3)</name>
-    <sym> </sym>
-</wpt>
-<wpt lat="37.9051082" lon="127.0888672">
-    <ele>111.0</ele>
-    <name>AP(A4)</name>
-    <sym> </sym>
-</wpt>
 <trk>
     <name>2024KOREA50K_50K_COROS_0317</name>
     <type>Running</type>
